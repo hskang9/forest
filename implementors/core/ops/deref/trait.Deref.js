@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["vm"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/ops/deref/trait.Deref.html\" title=\"trait core::ops::deref::Deref\">Deref</a> for <a class=\"struct\" href=\"vm/struct.Serialized.html\" title=\"struct vm::Serialized\">Serialized</a>","synthetic":false,"types":["vm::method::Serialized"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
